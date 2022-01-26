@@ -6,4 +6,3 @@ let hobbies = ['Sports', 'Cooking', 'Movies', 'Travel'];
 console.log(hobbies.length);
 
 
-hobbies.
